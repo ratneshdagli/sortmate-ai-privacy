@@ -65,7 +65,7 @@ Deletion is enforced through daily scheduled cleanup that permanently removes ex
 
 ---
 
-### 2.2 Calendar Events (Optional)
+### 2.2 Calendar Events
 
 **What the App Does:**  
 If you grant Calendar permission, Sorted AI can:
@@ -232,7 +232,7 @@ Disabling it stops new draft creation but preserves existing drafts
 
 ---
 
-### 4.2 Calendar Permission (Optional)
+### 4.2 Calendar Permission
 
 **Why We Need It:**  
 To show your existing events for conflict detection and to write confirmed drafts to your calendar.
@@ -300,7 +300,7 @@ Works 100% offline (airplane mode does not affect functionality)
 
 **Network Usage (If Any):**
 
-App updates from Google Play (optional)  
+App updates from Google Play 
 Support links (if you tap "Contact Support")
 
 **No Tracking:**
